@@ -1,5 +1,5 @@
 
-<img src="PlaygroundBook/PrivateResources/header.png">
+<img src="Assets/header.png">
 
 # Nina's Playground 👧🏻
 #### Submission for Apple WWDC'20 Swift Student Challenge!
