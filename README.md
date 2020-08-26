@@ -7,6 +7,8 @@
 
 <br>
 
+#### Swift Playgrounds Book to demonstrate the modern RSA encryption mechanism using an intuitive game and a prototype safe environment for kids using basics of Machine Learning and Natural Language Processing to detect spam, negative sentiments and protect them from mature content online.
+
 ## Introduction 📝
 - This playground book consists of three pages which showcase various use of technology in our daily lives.
 - The first page uses SpriteKit to make a small yet fun game which demos the underlying mechanism of encryption in the modern world.
